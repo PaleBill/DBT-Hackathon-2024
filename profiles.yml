@@ -4,9 +4,9 @@ Hackathon:
     outputs:
         Snowflake_DB:
             type: snowflake
-            account: [account id]
-            user: [username]
-            password: [password]
-            database: [database name]
-            warehouse: [warehouse name]
-            schema: [dbt schema]
+            account: 'JXGPFAR-REVOLT_PARTNER'
+            user: 'USER_19'
+            password: 'Rudsiq1234@'
+            database: 'HACKATHON'
+            warehouse: 'HACKATHON_WH'
+            schema: 'TEAM_19'
